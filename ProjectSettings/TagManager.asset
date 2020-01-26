@@ -7,6 +7,7 @@ TagManager:
   - arrowStraight
   - arrowRight
   - arrowLeft
+  - arrowBack
   layers:
   - Default
   - TransparentFX

@@ -1,32 +1,25 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/actionArrow.cs">
+﻿<Properties StartupConfiguration="{614A1FC4-CBDF-52ED-5303-75F96B2E3C60}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/webCamScript.cs">
     <Files>
-      <File FileName="Assets/webCamScript.cs" Line="15" Column="1" />
-      <File FileName="Assets/webCamScript.cs" Line="37" Column="2" />
-      <File FileName="Assets/webCamScript.cs" Line="37" Column="2" />
-      <File FileName="Assets/actionArrow.cs" Line="11" Column="31" />
+      <File FileName="Assets/webCamScript.cs" Line="84" Column="6" />
+      <File FileName="Assets/actionArrow.cs" />
+      <File FileName="Assets/navigateText.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UITest" expanded="True">
-            <Node name="Assembly-CSharp" expanded="True">
-              <Node name="Assets" expanded="True">
-                <Node name="actionArrow.cs" selected="True" />
-              </Node>
+            <Node name="Assets" expanded="True">
+              <Node name="webCamScript.cs" selected="True" />
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="UITest" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="829907d6-a721-4f02-b0c9-0283ba628a04" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
